@@ -65,11 +65,11 @@
 
                             <div class="col-md-2">
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input" type="radio" name="account_type" id="individual" value="individual" required>
+                                    <input class="form-check-input" type="radio" name="account_type" id="individual" value="Individual" required>
                                     <label class="form-check-label" for="individual">Individual</label>
                                 </div>
                                 <div class="form-check form-check-inline">
-                                    <input class="form-check-input" type="radio" name="account_type" id="business" value="business" required>
+                                    <input class="form-check-input" type="radio" name="account_type" id="business" value="Business" required>
                                     <label class="form-check-label" for="business">Business</label>
                                 </div>
                             </div>
